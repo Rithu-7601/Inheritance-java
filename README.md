@@ -1,2 +1,2 @@
 # Inheritance-java
-Inheritance 
+Object Oriented programming in java
